@@ -26,3 +26,20 @@ End Commit 1
 
 5.  Why might you want to reset your files back to a previous commit?
 	Answer: You might want to do this if you've made mistakes and/or want to replace 	the history.
+
+------------------
+End Commit 2
+------------------
+
+1.  What command do you use to create a branch?
+	Answer: git branch [branch-name]
+2.  What command do you use to use a different branch?
+	Answer: git checkout [branch-name]
+3.  Why would you want to use a branch other than the default master?
+	Answer: so that you're not pushing changes directly to the master, but to a separate working file to be looked at before incorporating into the master.
+
+------------------
+End Commit 3
+------------------
+
+
