@@ -42,4 +42,12 @@ End Commit 2
 End Commit 3
 ------------------
 
+1.  Give an example for when you would use git merge and give an example for when it would be better to submit a pull request to have your branch merged.
+	Answer: It would be better to use "merge" if you're working on your own version of a "forked" file (meaning you won't be updated a master file". You would submit a pull request to someone to ask them to accept changes to their master file. An example of this would be fixing someone's bug and sending them a pull request to pull your changes into their master document.
 
+2.  What command do you use to send all of the work that you've done locally to your remote repository?
+	Answer: git push
+
+------------------
+End Commit 4
+------------------
